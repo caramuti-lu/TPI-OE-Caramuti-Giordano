@@ -74,8 +74,6 @@ TPI-OE-Caramuti-Giordano/
 │   ├── proceso AS-IS.jpeg
 │   └── proceso to be.jpeg
 └── bot.py
-```
-
 ---
 
 ## 📄 Documentación
