@@ -15,13 +15,9 @@ A partir del análisis del proceso actual (**AS-IS**) se identificaron oportunid
 ---
 ## 📊 Diagramas BPMN
 
-### Proceso AS-IS
+![Diagrama AS-IS](images/proceso%20AS-IS.jpeg)
 
-![Diagrama AS-IS](images/as-is.png)
-
-### Proceso TO-BE
-
-![Diagrama TO-BE](images/to-be.png)
+![Diagrama TO-BE](images/proceso%20to%20be%20.jpeg)
 
 ---
 
