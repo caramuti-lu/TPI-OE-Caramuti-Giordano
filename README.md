@@ -13,6 +13,23 @@ El proyecto se centra en la optimización del proceso de gestión de turnos de *
 A partir del análisis del proceso actual (**AS-IS**) se identificaron oportunidades de mejora y se diseñó un nuevo proceso (**TO-BE**) utilizando la notación **BPMN 2.0**, incorporando un chatbot de Telegram como herramienta de automatización para la atención al cliente.
 
 ---
+## 📊 Diagramas BPMN
+
+### Proceso AS-IS
+
+![Diagrama AS-IS](images/as-is.png)
+
+### Proceso TO-BE
+
+![Diagrama TO-BE](images/to-be.png)
+
+---
+
+## 📄 Documentación
+
+La documentación completa del proyecto se encuentra disponible en:
+
+- 📄 [TPI_OE_Eudermy_Caramuti_Giordano.pdf](docs/TPI_OE_Eudermy_Caramuti_Giordano.pdf)
 
 ## 🎯 Objetivos
 
@@ -41,7 +58,7 @@ La solución diseñada permite:
 
 - BPMN 2.0
 - Telegram Bot
-- Inteligencia Artificial (Claude), utilizada como herramienta de apoyo para la creación del chatbot y el modelado de los diagramas BPMN 2.0..
+- Inteligencia Artificial (Claude), utilizada como herramienta de apoyo para la creación del chatbot y el modelado de los diagramas BPMN 2.0.
 - Microsoft Word
 - Git y GitHub (documentación del proyecto)
 
