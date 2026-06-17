@@ -62,9 +62,9 @@ El repositorio incluye el código fuente del chatbot desarrollado en Python como
 - Git y GitHub (documentación del proyecto)
 
 ---
-
 ## 📂 Estructura del repositorio
 
+```
 TPI-OE-Caramuti-Giordano/
 │
 ├── README.md
