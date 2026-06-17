@@ -25,7 +25,7 @@ A partir del análisis del proceso actual (**AS-IS**) se identificaron oportunid
 
 La documentación completa del proyecto se encuentra disponible en:
 
-- 📄 [TPI_OE_Eudermy_Caramuti_Giordano.pdf](docs/TPI_OE_Eudermy_Caramuti_Giordano.pdf)
+- 📄 [TPI_OE_Eudermy_Caramuti_Giordano.pdf](docs/TPI_OE_CARAMUTI_GIORDANO.pdf)
 
 ## 🎯 Objetivos
 
