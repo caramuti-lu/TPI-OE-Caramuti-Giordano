@@ -49,6 +49,9 @@ La solución diseñada permite:
 - 🤖 Confirmar reservas automáticamente.
 
 ---
+## 🤖 Chatbot
+
+El repositorio incluye el código fuente del chatbot desarrollado en Python como parte de la propuesta de mejora del proceso.
 
 ## 🛠 Herramientas utilizadas
 
@@ -62,15 +65,15 @@ La solución diseñada permite:
 
 ## 📂 Estructura del repositorio
 
-```
 TPI-OE-Caramuti-Giordano/
 │
 ├── README.md
 ├── docs/
 │   └── TPI_OE_CARAMUTI_GIORDANO.pdf
-└── images/
-    ├── as-is.png
-    └── to-be.png
+├── images/
+│   ├── proceso AS-IS.jpeg
+│   └── proceso to be.jpeg
+└── bot.py
 ```
 
 ---
